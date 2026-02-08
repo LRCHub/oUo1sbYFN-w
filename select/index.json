@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ヒカリ証明論",
+  "base_artist": "CHiCO with HoneyWorks",
+  "createdAt": "2026-02-08T12:08:37.349389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒカリ証明論",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_ヒカリ証明論_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒカリ証明論",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/02_ヒカリ証明論_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒカリ証明論",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/03_ヒカリ証明論_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒカリ証明論",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/04_ヒカリ証明論_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒカリ証明論",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_ヒカリ証明論_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒカリ証明論",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_ヒカリ証明論_CHiCO_with_HoneyWorks.txt"
+    }
+  ]
+}
